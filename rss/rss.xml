@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Promenjena lokacija</title>
+  <link>https://artuniq.000webhostapp.com/o%20nama.html</link>
+  <description>ArtUniq se sada nalazi na drugoj lokaciji</description>
+  <item>
+    <title>Izložba</title>
+    <link>https://artuniq.000webhostapp.com/galerija.html</link>
+    <description> Izložba ce se održati 20.12.2021</description>
+  </item>
+  <item>
+    <title>Novosti</title>
+    <link>https://artuniq.000webhostapp.com/index.html</link>
+    <description>Za 2 dana nam dolazi Vanja Pavić</description>
+  </item>
+</channel>
+
+</rss> 
